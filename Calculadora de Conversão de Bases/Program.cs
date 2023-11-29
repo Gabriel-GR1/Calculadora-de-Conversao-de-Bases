@@ -34,7 +34,7 @@ namespace Calculadora_Didática
                 Console.WriteLine("===================================");
                 Console.WriteLine("| 0. Sair                         |");
                 Console.WriteLine("===================================");
-                Console.WriteLine("Feito por: Gabriel Rodrigo, Vinicus Duarte e Isabela Melo");
+                Console.WriteLine("Feito por: Gabriel Rodrigo");
                 Console.Write("\nInforme a opção desejada: ");
                 opcao = int.Parse(Console.ReadLine());
 
